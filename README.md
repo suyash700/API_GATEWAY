@@ -1,4 +1,4 @@
-<img width="1918" height="907" alt="Screenshot 2026-04-20 175906" src="https://github.com/user-attachments/assets/b1449cba-9671-49b1-8887-9fc62caa287c" /><img width="1918" height="907" alt="Screenshot 2026-04-20 175906" src="https://github.com/user-attachments/assets/aff73794-3abb-4b87-8f20-289857607fc9" /><img width="1446" height="832" alt="Screenshot 2026-04-20 175617" src="https://github.com/user-attachments/assets/decd2fdc-67f4-47fe-858b-5f53c14af45e" /># 🚀 Serverless Orders API (AWS)
+# 🚀 Serverless Orders API (AWS)
 
 A fully serverless REST API for managing orders using AWS services. This project implements complete CRUD operations using API Gateway, Lambda, and DynamoDB.
 
